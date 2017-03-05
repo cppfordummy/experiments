@@ -1,5 +1,4 @@
 #include <iostream>
-#include "fruits/apple/apple_manager.h"
 #include "fruits/apple/red_apple/red_apple_one.h"
 
 int main() {

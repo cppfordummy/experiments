@@ -1,5 +1,4 @@
 #include "fruits/apple/red_apple/red_apple_one.h"
-#include "fruits/apple/apple_manager.h"
 
 int RedAppleOne::get_size() {
     return size;

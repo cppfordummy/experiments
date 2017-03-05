@@ -4,7 +4,7 @@
 #include "fruits/apple/apple_manager.h"
 
 class RedAppleOne {
-    friend int AppleManager::some_method();
+    friend void AppleManager::another_method(RedAppleOne*);
 
 public:
     RedAppleOne(int);

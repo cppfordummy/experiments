@@ -1,5 +1,5 @@
 CC = g++
-CXXFLAGS = -g -Wall -I headers/
+CXXFLAGS = -g -Wall -I headers/ -std=c++11
 CFLAGS =
 LIBS =
 LDFLAGS = $(LIBS)

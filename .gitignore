@@ -1,0 +1,19 @@
+# Mac
+.DS_Store
+# eclipse
+.classpath
+.project
+.settings
+workbench.xml
+workbench.xmi
+
+# idea
+.idea
+*.iml
+.cproject
+CMakeLists.txt
+cmake-build-debug/
+
+*.o
+*.d
+
